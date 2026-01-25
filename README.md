@@ -4,43 +4,41 @@
 
 <h1 align="center">RScan+</h1>
 
-<p align="center"><b>RScan+</b> is a professional utility that turns your mobile device into a high-speed scanner. It bridges the gap between physical products and digital information for both employees and customers.</p>
+<p align="center"><b>RScan+</b> is a professional productivity utility that turns your smartphone into a high-speed scanner. Designed for both <b>employees</b> and <b>customers</b>, it bridges the gap between physical products and digital information available on the public web.</p>
 
 &nbsp;
 
 # **Overview**
 
-⚡ **Fast Price Checking** Employees can quickly verify product prices and details on employer websites, even without dedicated hardware.
+⚡ **Instant Info Lookup** Employees can perform rapid price and product info checks on employer websites, bypassing the need for dedicated company hardware.
 
-🛒 **Customer Autonomy** Customers can instantly check product info and pricing on retailer websites without needing to find a staff member.
+🛒 **Customer Utility** Customers can scan any product to instantly see pricing and details on the retailer's official website.
 
-🔍 **Smart OCR & Barcode Scanning** Supports a wide variety of barcode types and high-accuracy text recognition (OCR) to identify products from any label.
+📋 **New: My Lists (Inventory & Prep)** Create, name, and manage personal lists. Scan barcodes or use OCR to add items with specific quantities—perfect for inventory prep or shopping lists.
 
-✨ **AI-Powered Research** Two taps away from Google Gemini. If the store website is missing details, the app automatically prepares a prompt to help you find more info instantly.
+🔍 **Hardware-Grade Scanning** High-speed recognition for all major barcode types and printed product codes (OCR).
 
-🌍 **Global & Localized** Multi-country support with automatic store sorting based on your personal frequency of use.
+✨ **AI-Powered Deep Dive** Two taps away from Google Gemini. Automatically prepare research prompts to find product details that aren't listed on the store's website.
 
-🛡️ **Privacy Focused** No accounts, no cloud tracking, and no internal API access. All scanning and processing happen locally on your device.
+🛡️ **Strictly Private** No accounts, no cloud tracking, and no internal API access. Your preferences and product lists stay 100% local to your device.
 
 &nbsp;
 
 # **Instructions**
 
-1. Select your **Country** and **Language** in settings.
-2. Tap the **Floating Scanner Button** to scan a barcode or text.
-3. The app opens the retailer's public website with the product results.
-4. Need more info? Tap the **Gemini Icon** to research the product with AI.
+1. **Setup:** Select your **Country** and **Language** in settings.
+2. **Scan:** Tap the **Scanner Button** to fetch info from a retailer's public website.
+3. **Organize:** Use the **Create a List** card to start saving products and quantities.
+4. **Research:** Tap the **Gemini Icon** while browsing to trigger an AI-assisted product deep dive.
 
 &nbsp;
 
 > [!TIP]
-> The app sorts stores based on how often you use them, so your favorite retailers will always be at the top!
+> Use the **My Lists** feature to keep track of items you need to restock or check. Long-press any list to rename or delete it!
 
 &nbsp;
 
 # **Download**
-
-Choose one of the options below to get **RScan+** for your device:
 
 [![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-000000?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.desiwah.rscanplus)
 
@@ -51,27 +49,27 @@ Choose one of the options below to get **RScan+** for your device:
 <a href="assets/screenshots/landing.png">
   <img src="assets/screenshots/landing.png" alt="Store Selection" width="400">
 </a>
+<a href="assets/screenshots/lists.png">
+  <img src="assets/screenshots/lists.png" alt="List Manager" width="400">
+</a>
+
 <a href="assets/screenshots/scanner.png">
   <img src="assets/screenshots/scanner.png" alt="Scanner Interface" width="400">
 </a>
-
-<a href="assets/screenshots/webview.png">
-  <img src="assets/screenshots/webview.png" alt="In-app Browser Results" width="400">
-</a>
-<a href="assets/screenshots/ocr.png">
-  <img src="assets/screenshots/ocr.png" alt="Text Recognition Picker" width="400">
+<a href="assets/screenshots/detail.png">
+  <img src="assets/screenshots/detail.png" alt="List Detail View" width="400">
 </a>
 
 &nbsp;
 
 # **Features**
 
-* **Universal Scanner** – Supports EAN, UPC, QR, Code 128, and more.
-* **OCR Mode** – Extract product codes directly from printed text.
-* **Desktop Mode** – Toggle between mobile and desktop views of store websites.
-* **Dark Mode** – Full support for light and dark themes.
-* **Multi-Region** – Pre-configured for various countries with public search templates.
-* **Gemini Integration** – Automated prompt injection for deep product research.
+* **Universal Scanner** – High-speed support for EAN, UPC, QR, Code 128, and more.
+* **OCR Mode** – Identify products by scanning printed text directly from labels.
+* **List Manager** – Save, search, and edit product codes with adjustable quantities.
+* **Desktop Toggle** – Switch between mobile and desktop views within the in-app browser.
+* **Smart Sorting** – Stores are automatically ranked based on your personal usage.
+* **Gemini Shortcuts** – Built-in automation for Google Gemini prompt injection.
 
 &nbsp;
 
@@ -84,7 +82,7 @@ Choose one of the options below to get **RScan+** for your device:
 
 # **Support**
 
-**RScan+** is free to use. If it has helped your workflow or saved you time, you can support the project and help keep the configuration servers running here:
+**RScan+** is free and focused on utility. If it has improved your efficiency or helped your workplace, you can support the project here:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Support_the_Project-%23539764?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/desiwah)
 
