@@ -1,4 +1,4 @@
-# 📜 Privacy Policy for RScan+
+# 📜 Privacy Policy for R.Scan+
 
 **Effective Date:** January 25, 2026
 
