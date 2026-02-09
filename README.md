@@ -12,7 +12,7 @@
 
 ⚡ **Instant Info Lookup** Employees can perform rapid price and product info checks on retailer websites using a built-in browser wrapper, bypassing the need for dedicated company hardware.
 
-📋 **Inventory & List Management** Create, name, and manage personal lists. Scan barcodes, use OCR for printed codes, or select text directly from the browser to add items with specific quantities—perfect for inventory prep or shopping lists.
+📋 **Inventory & List Management** Create, name, and manage personal lists. Scan barcodes, use OCR for printed codes, or manually select existing codes from the browser to save them with specific quantities.
 
 🔊 **Quick Scan Mode** Maximize efficiency with physical keybindings. Use your device's **Volume Buttons** to trigger the scanner or identify text without touching the screen.
 
@@ -33,7 +33,7 @@
 &nbsp;
 
 > [!TIP]
-> **Web Selection:** Highlight any text on a webpage inside the app to instantly add it to your active list as a barcode or product code!
+> **Web Selection:** Highlight any barcode or product code text while browsing to trigger the "Add Selection" button. You can then choose which list to send it to and whether to save it as a Barcode or Product Code!
 
 &nbsp;
 
@@ -49,7 +49,7 @@
 * **OCR Mode** – Identify products by scanning printed text/numbers directly from labels.
 * **Quick Scan (Keybinds)** – Hardware volume button support for eyes-free scanning triggering.
 * **List Manager** – Save, search, sort, and edit product codes with adjustable quantities.
-* **Web Integration** – Highlight text on a website to "Quick Add" it to your lists.
+* **Web Selection Tool** – Highlight numeric codes on any website to quickly import them into your lists.
 * **Desktop Toggle** – Switch between mobile and desktop views within the in-app browser.
 * **Smart Sorting** – Stores are automatically ranked based on your personal usage frequency.
 * **Gemini Shortcuts** – Built-in automation for Google Gemini prompt injection.
