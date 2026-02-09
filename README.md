@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/Desiwah/RScanPlus/blob/main/assets/logo/logo.png?raw=true" alt="RScan+ Icon" width="80" height="80">
+  <img src="https://github.com/Desiwah/RScanPlus/blob/main/assets/logo/logo.png?raw=true" alt="R.Scan+ Icon" width="80" height="80">
 </p>
 
-<h1 align="center">RScan+</h1>
+<h1 align="center">R.Scan+</h1>
 
-<p align="center"><b>RScan+</b> is a professional productivity utility that turns your smartphone into a high-speed scanner. Designed for both <b>employees</b> and <b>customers</b>, it bridges the gap between physical products and digital information available on the public web.</p>
+<p align="center"><b>R.Scan+</b> is a professional productivity utility that turns your smartphone into a high-speed scanner. Designed for both <b>employees</b> and <b>customers</b>, it bridges the gap between physical products and digital information available on the public web.</p>
 
 &nbsp;
 
@@ -65,7 +65,7 @@
 
 # **Support**
 
-**RScan+** is free and focused on utility. If it has improved your efficiency or helped your workplace, you can support the project here:
+**R.Scan+** is free and focused on utility. If it has improved your efficiency or helped your workplace, you can support the project here:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Support_the_Project-%23539764?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/desiwah)
 
