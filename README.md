@@ -10,31 +10,30 @@
 
 # **Overview**
 
-⚡ **Instant Info Lookup** Employees can perform rapid price and product info checks on employer websites, bypassing the need for dedicated company hardware.
+⚡ **Instant Info Lookup** Employees can perform rapid price and product info checks on retailer websites using a built-in browser wrapper, bypassing the need for dedicated company hardware.
 
-🛒 **Customer Utility** Customers can scan any product to instantly see pricing and details on the retailer's official website.
+📋 **Inventory & List Management** Create, name, and manage personal lists. Scan barcodes, use OCR for printed codes, or select text directly from the browser to add items with specific quantities—perfect for inventory prep or shopping lists.
 
-📋 **New: My Lists (Inventory & Prep)** Create, name, and manage personal lists. Scan barcodes or use OCR to add items with specific quantities—perfect for inventory prep or shopping lists.
+🔊 **Quick Scan Mode** Maximize efficiency with physical keybindings. Use your device's **Volume Buttons** to trigger the scanner or identify text without touching the screen.
 
-🔍 **Hardware-Grade Scanning** High-speed recognition for all major barcode types and printed product codes (OCR).
+✨ **AI-Powered Deep Dive** Two taps away from **Google Gemini**. Automatically prepare and copy research prompts to find product details that aren't listed on the store's official website.
 
-✨ **AI-Powered Deep Dive** Two taps away from Google Gemini. Automatically prepare research prompts to find product details that aren't listed on the store's website.
-
-🛡️ **Strictly Private** No accounts, no cloud tracking, and no internal API access. Your preferences and product lists stay 100% local to your device.
+🗣️ **Direct Feedback Loop** Built-in tools to suggest new stores, request languages, or report bugs directly to the developer via Discord integration.
 
 &nbsp;
 
 # **Instructions**
 
-1. **Setup:** Select your **Country** and **Language** in settings.
-2. **Scan:** Tap the **Scanner Button** to fetch info from a retailer's public website.
-3. **Organize:** Use the **Create a List** card to start saving products and quantities.
+1. **Setup:** Select your **Country**, **Language**, and **Theme** in settings.
+2. **Scan:** Use the on-screen button or enable **Quick Scan Mode** (Volume Buttons) to fetch info.
+3. **Organize:** Use the **List Manager** to create inventory or shopping lists. You can sort items by barcode, product code, or quantity.
 4. **Research:** Tap the **Gemini Icon** while browsing to trigger an AI-assisted product deep dive.
+5. **Feedback:** Found a bug or missing a store? Use the **Suggest** or **Bug Report** buttons in the footer.
 
 &nbsp;
 
 > [!TIP]
-> Use the **My Lists** feature to keep track of items you need to restock or check. Long-press any list to rename or delete it!
+> **Web Selection:** Highlight any text on a webpage inside the app to instantly add it to your active list as a barcode or product code!
 
 &nbsp;
 
@@ -44,31 +43,15 @@
 
 &nbsp;
 
-# **Screenshots**
-
-<a href="assets/screenshots/landing.png">
-  <img src="assets/screenshots/landing.png" alt="Store Selection" width="400">
-</a>
-<a href="assets/screenshots/lists.png">
-  <img src="assets/screenshots/lists.png" alt="List Manager" width="400">
-</a>
-
-<a href="assets/screenshots/scanner.png">
-  <img src="assets/screenshots/scanner.png" alt="Scanner Interface" width="400">
-</a>
-<a href="assets/screenshots/detail.png">
-  <img src="assets/screenshots/detail.png" alt="List Detail View" width="400">
-</a>
-
-&nbsp;
-
 # **Features**
 
-* **Universal Scanner** – High-speed support for EAN, UPC, QR, Code 128, and more.
-* **OCR Mode** – Identify products by scanning printed text directly from labels.
-* **List Manager** – Save, search, and edit product codes with adjustable quantities.
+* **Universal Scanner** – High-speed support for EAN, UPC, QR, Code 128, ITF14, and more (configurable in Settings).
+* **OCR Mode** – Identify products by scanning printed text/numbers directly from labels.
+* **Quick Scan (Keybinds)** – Hardware volume button support for eyes-free scanning triggering.
+* **List Manager** – Save, search, sort, and edit product codes with adjustable quantities.
+* **Web Integration** – Highlight text on a website to "Quick Add" it to your lists.
 * **Desktop Toggle** – Switch between mobile and desktop views within the in-app browser.
-* **Smart Sorting** – Stores are automatically ranked based on your personal usage.
+* **Smart Sorting** – Stores are automatically ranked based on your personal usage frequency.
 * **Gemini Shortcuts** – Built-in automation for Google Gemini prompt injection.
 
 &nbsp;
