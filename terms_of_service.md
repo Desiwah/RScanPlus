@@ -2,25 +2,25 @@
 
 **Effective Date:** February 9, 2026
 
-Welcome to RScan+! These Terms of Service ("Terms") govern your use of the RScan+ mobile application ("App"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the App.
+Welcome to R.Scan+! These Terms of Service ("Terms") govern your use of the R.Scan+ mobile application ("App"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the App.
 
 ---
 
 ## 1. Acceptance of Terms
 
-RScan+ is a utility tool provided by the developer ("Service Provider"). By accessing the App, you verify that you are at least 13 years of age and have the legal capacity to enter into this agreement.
+R.Scan+ is a utility tool provided by the developer ("Service Provider"). By accessing the App, you verify that you are at least 13 years of age and have the legal capacity to enter into this agreement.
 
 ---
 
 ## 2. Description of Service
 
-RScan+ is a productivity tool designed to assist users in identifying products and retrieving public pricing/availability information. The App provides:
+R.Scan+ is a productivity tool designed to assist users in identifying products and retrieving public pricing/availability information. The App provides:
 1.  **Barcode & OCR Scanning:** Using your device's camera to read barcodes or text.
 2.  **Web Browser Wrapper:** Loading third-party retail websites in a controlled environment ("WebView") to display search results.
 3.  **List Management:** Local storage for creating and editing personal product lists.
 4.  **AI Assistance:** A shortcut to copy/paste search prompts into Google Gemini.
 
-**Disclaimer:** RScan+ is an independent utility. It is **not** affiliated with, endorsed by, or connected to any of the retail stores, brands, or companies (e.g., Lidl, Kaufland, Google) accessible through the App.
+**Disclaimer:** R.Scan+ is an independent utility. It is **not** affiliated with, endorsed by, or connected to any of the retail stores, brands, or companies (e.g., Lidl, Kaufland, Google) accessible through the App.
 
 ---
 
@@ -39,7 +39,7 @@ You agree to use the App only for lawful purposes. You specifically agree **not*
 ### A. Retail Websites
 The App displays content from third-party websites within a WebView.
 * **Accuracy:** We do not guarantee the accuracy of prices, stock levels, or product descriptions displayed on these third-party sites.
-* **Ownership:** All trademarks, logos, and content displayed within the WebView belong to their respective owners. RScan+ claims no ownership over this content.
+* **Ownership:** All trademarks, logos, and content displayed within the WebView belong to their respective owners. R.Scan+ claims no ownership over this content.
 
 ### B. Google Gemini & ML Kit
 * The App uses Google ML Kit for on-device text recognition.
@@ -50,7 +50,7 @@ The App displays content from third-party websites within a WebView.
 ## 5. User Data & Liability
 
 **Local Storage Only:**
-RScan+ stores your **Product Lists** and **Settings** locally on your device. We do not maintain a cloud backup of your lists.
+R.Scan+ stores your **Product Lists** and **Settings** locally on your device. We do not maintain a cloud backup of your lists.
 * **You are responsible for your data.** If you uninstall the App or clear its data, your lists will be permanently lost. The Service Provider is not liable for any loss of data.
 
 ---
