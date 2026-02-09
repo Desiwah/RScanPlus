@@ -2,13 +2,13 @@
 
 **Effective Date:** February 9, 2026
 
-RScan+ is a professional utility designed to assist **employees** and **customers** with rapid price checking and product information retrieval. By turning a mobile device into a high-speed scanner, the app allows users to quickly find details available on public retail websites and manage personal product lists. RScan+ acts as a bridge to public web information; it does **not** access internal company APIs, private inventory databases, or non-public employer systems.
+R.Scan+ is a professional utility designed to assist **employees** and **customers** with rapid price checking and product information retrieval. By turning a mobile device into a high-speed scanner, the app allows users to quickly find details available on public retail websites and manage personal product lists. R.Scan+ acts as a bridge to public web information; it does **not** access internal company APIs, private inventory databases, or non-public employer systems.
 
 ---
 
 ## 1. Information We Collect
 
-When you interact with the RScan+ app, the following data may be accessed or stored:
+When you interact with the R.Scan+ app, the following data may be accessed or stored:
 
 ### A. Locally Stored Data (On Your Device)
 - **Product Lists** – Users can create and manage lists containing product barcodes, codes, and quantities. This data is created by you and stored strictly on your device.
@@ -52,7 +52,7 @@ You may delete **all stored data** at any time by clearing the app's cache/stora
 
 ## 4. Data Sharing and Disclosure (Third-Party Services)
 
-RScan+ interacts with the following platforms to facilitate your searches and feedback:
+R.Scan+ interacts with the following platforms to facilitate your searches and feedback:
 
 - **Retail Websites (WebView)** – Interaction is governed by the individual retailer’s privacy policy.
 - **Discord (Webhooks)** – When you submit a Bug Report or Suggestion, the text content is transmitted to the developer's private Discord server for review.
@@ -73,7 +73,7 @@ As a user, you have full control over your data:
 
 ## 6. Children’s Privacy
 
-RScan+ is a general utility and does not knowingly collect personal information from children. Since no personal data is transmitted to the developer (outside of voluntary bug reports), we do not maintain a database of user information.
+R.Scan+ is a general utility and does not knowingly collect personal information from children. Since no personal data is transmitted to the developer (outside of voluntary bug reports), we do not maintain a database of user information.
 
 ---
 
