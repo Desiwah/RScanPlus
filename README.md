@@ -67,6 +67,6 @@
 
 **R.Scan+** is free and focused on utility. If it has improved your efficiency or helped your workplace, you can support the project here:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Support_the_Project-%23539764?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/desiwah)
+[![Buy Me A Coffee](https://img.shields.io/badge/Support_the_Project-%23539764?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://donation.8520456.xyz)
 
 Thank you! ❤️
